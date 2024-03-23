@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samue\\dotnetestudos\\crud-aspnet-with-auth\\crud-aspnet-with-auth.csproj": {}
+    "c:\\Users\\samue\\dotnetestudos\\crud-aspnet-with-auth\\crud-aspnet-with-auth.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samue\\dotnetestudos\\crud-aspnet-with-auth\\crud-aspnet-with-auth.csproj": {
+    "c:\\Users\\samue\\dotnetestudos\\crud-aspnet-with-auth\\crud-aspnet-with-auth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samue\\dotnetestudos\\crud-aspnet-with-auth\\crud-aspnet-with-auth.csproj",
+        "projectUniqueName": "c:\\Users\\samue\\dotnetestudos\\crud-aspnet-with-auth\\crud-aspnet-with-auth.csproj",
         "projectName": "crud-aspnet-with-auth",
-        "projectPath": "C:\\Users\\samue\\dotnetestudos\\crud-aspnet-with-auth\\crud-aspnet-with-auth.csproj",
+        "projectPath": "c:\\Users\\samue\\dotnetestudos\\crud-aspnet-with-auth\\crud-aspnet-with-auth.csproj",
         "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samue\\dotnetestudos\\crud-aspnet-with-auth\\obj\\",
+        "outputPath": "c:\\Users\\samue\\dotnetestudos\\crud-aspnet-with-auth\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\samue\\AppData\\Roaming\\NuGet\\NuGet.Config",

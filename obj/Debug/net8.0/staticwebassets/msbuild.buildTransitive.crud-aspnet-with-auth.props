@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\crud-aspnet-with-auth.props" />
+</Project>

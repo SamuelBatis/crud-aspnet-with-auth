@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NXVT7GNH5acBG2dpZUS71M4XXeIO6gxm3bjtocl960lOYOsStXGlZIQsn+pQ4n3j20rCVufER0GSMfmfLaKGvA==",
+  "dgSpecHash": "p1xt3Wd6KzKNNgXphZcUQIiRZxb99lbjd5Hp52vQXDIry4mgjBYcMZjmyJolxdHZZWbw/Zzps9sKA118B2TIsQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\samue\\dotnetestudos\\crud-aspnet-with-auth\\crud-aspnet-with-auth.csproj",
+  "projectFilePath": "c:\\Users\\samue\\dotnetestudos\\crud-aspnet-with-auth\\crud-aspnet-with-auth.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\samue\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\samue\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.3\\microsoft.aspnetcore.cryptography.internal.8.0.3.nupkg.sha512",
