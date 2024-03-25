@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samue\\dotnetestudos\\crud-aspnet-with-auth\\crud-aspnet-with-auth.csproj": {}
+    "C:\\Users\\samue\\Desktop\\crud-aspnet-with-auth\\crud-aspnet-with-auth.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samue\\dotnetestudos\\crud-aspnet-with-auth\\crud-aspnet-with-auth.csproj": {
+    "C:\\Users\\samue\\Desktop\\crud-aspnet-with-auth\\crud-aspnet-with-auth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samue\\dotnetestudos\\crud-aspnet-with-auth\\crud-aspnet-with-auth.csproj",
+        "projectUniqueName": "C:\\Users\\samue\\Desktop\\crud-aspnet-with-auth\\crud-aspnet-with-auth.csproj",
         "projectName": "crud-aspnet-with-auth",
-        "projectPath": "C:\\Users\\samue\\dotnetestudos\\crud-aspnet-with-auth\\crud-aspnet-with-auth.csproj",
+        "projectPath": "C:\\Users\\samue\\Desktop\\crud-aspnet-with-auth\\crud-aspnet-with-auth.csproj",
         "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samue\\dotnetestudos\\crud-aspnet-with-auth\\obj\\",
+        "outputPath": "C:\\Users\\samue\\Desktop\\crud-aspnet-with-auth\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\samue\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,9 +61,17 @@
               "target": "Package",
               "version": "[8.0.3, )"
             },
+            "Microsoft.EntityFrameworkCore.Sqlserver": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[8.0.3, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.2, )"
             }
           },
           "imports": [

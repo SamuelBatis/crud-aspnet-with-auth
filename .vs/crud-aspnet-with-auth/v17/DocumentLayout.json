@@ -1,7 +1,32 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\samue\\dotnetestudos\\crud-aspnet-with-auth\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\samue\\Desktop\\crud-aspnet-with-auth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{039E2B6A-C924-44F6-A67C-D7CBF543FC53}|crud-aspnet-with-auth.csproj|c:\\users\\samue\\desktop\\crud-aspnet-with-auth\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{039E2B6A-C924-44F6-A67C-D7CBF543FC53}|crud-aspnet-with-auth.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039E2B6A-C924-44F6-A67C-D7CBF543FC53}|crud-aspnet-with-auth.csproj|c:\\users\\samue\\desktop\\crud-aspnet-with-auth\\pages\\students\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{039E2B6A-C924-44F6-A67C-D7CBF543FC53}|crud-aspnet-with-auth.csproj|solutionrelative:pages\\students\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039E2B6A-C924-44F6-A67C-D7CBF543FC53}|crud-aspnet-with-auth.csproj|c:\\users\\samue\\desktop\\crud-aspnet-with-auth\\pages\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{039E2B6A-C924-44F6-A67C-D7CBF543FC53}|crud-aspnet-with-auth.csproj|solutionrelative:pages\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039E2B6A-C924-44F6-A67C-D7CBF543FC53}|crud-aspnet-with-auth.csproj|c:\\users\\samue\\desktop\\crud-aspnet-with-auth\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{039E2B6A-C924-44F6-A67C-D7CBF543FC53}|crud-aspnet-with-auth.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039E2B6A-C924-44F6-A67C-D7CBF543FC53}|crud-aspnet-with-auth.csproj|c:\\users\\samue\\desktop\\crud-aspnet-with-auth\\models\\premium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{039E2B6A-C924-44F6-A67C-D7CBF543FC53}|crud-aspnet-with-auth.csproj|solutionrelative:models\\premium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039E2B6A-C924-44F6-A67C-D7CBF543FC53}|crud-aspnet-with-auth.csproj|c:\\users\\samue\\desktop\\crud-aspnet-with-auth\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{039E2B6A-C924-44F6-A67C-D7CBF543FC53}|crud-aspnet-with-auth.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +34,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\crud-aspnet-with-auth\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\crud-aspnet-with-auth\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T01:23:27.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\crud-aspnet-with-auth\\Pages\\Students\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Students\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\crud-aspnet-with-auth\\Pages\\Students\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Students\\Create.cshtml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T01:18:33.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\crud-aspnet-with-auth\\Pages\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Students\\Create.cshtml",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\crud-aspnet-with-auth\\Pages\\Students\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Students\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T01:17:25.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\crud-aspnet-with-auth\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\crud-aspnet-with-auth\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T01:00:02.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Premium.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\crud-aspnet-with-auth\\Models\\Premium.cs",
+              "RelativeDocumentMoniker": "Models\\Premium.cs",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\crud-aspnet-with-auth\\Models\\Premium.cs",
+              "RelativeToolTip": "Models\\Premium.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T01:00:01.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\crud-aspnet-with-auth\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\crud-aspnet-with-auth\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T00:56:47.163Z",
+              "EditorCaption": ""
             }
           ]
         }

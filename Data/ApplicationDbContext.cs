@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+﻿using crud_aspnet_with_auth.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace crud_aspnet_with_auth.Data;
@@ -9,4 +10,7 @@ public class ApplicationDbContext : IdentityDbContext
         : base(options)
     {
     }
+
+    public DbSet<Student> Students { get; set; }
+    public DbSet<Premium> Premiums { get; set; }
 }
