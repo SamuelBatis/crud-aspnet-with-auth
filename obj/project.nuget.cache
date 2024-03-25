@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zD0t+dlPkEfVC1krXlTj4B1tq0zbvZnV/vMpT4fAlC5DVC1o6aaqynlNB0Kdp8grMg+QBkRl5g7QBW+aFg4JSQ==",
+  "dgSpecHash": "wTX+R8KYo3d/xWpCJAqM18wji/PK+ojcHm3BT2X3j206JX2MfxOrPdbBit5aaHCZ4XXQTwusLVQ4wNezLDNZRw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\samue\\Desktop\\crud-aspnet-with-auth\\crud-aspnet-with-auth.csproj",
+  "projectFilePath": "c:\\Users\\samue\\Desktop\\crud-aspnet-with-auth\\crud-aspnet-with-auth.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\samue\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\samue\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -28,6 +28,5 @@ namespace crud_aspnet_with_auth.Models
         [DisplayName("Aluno")]
         [Required(ErrorMessage = "Aluno invalido")]
         public DateTime StudentId { get; set; }
-
     }
 }
